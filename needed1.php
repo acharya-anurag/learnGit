@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sample file</title>
+	<title>Sample file this is a different change so cool omg</title>
 
 	<script src="ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script src="code.highcharts.com/highmaps.js"></script>
